@@ -1,4 +1,4 @@
-# PrintCost
+a# PrintCost
 
 Calculadora de custo e precificação para impressão 3D. **100% offline**: sem
 conta, sem servidor — os dados ficam só no aparelho (SQLite). UI em português
